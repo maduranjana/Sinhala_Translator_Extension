@@ -49,9 +49,9 @@ Madu_Sinhala_Translator/
 
 ## 📫 Contact
 
-Made with ❤️ by [Your Name]  
-🔗 [GitHub](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+Made with ❤️ by Maduranjana 
+🔗 [GitHub](https://github.com/maduranjana)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maduranjana/)
 
 ---
 
